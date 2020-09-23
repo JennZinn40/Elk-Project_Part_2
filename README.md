@@ -1,9 +1,9 @@
 # Elk-Project_Part_2
 
 Completed the following tasks:
-•	Implement the alarms and thresholds you determined would be effective in Project 2.
-•	Assess two more vulnerable VMs and verify that the rules work as expected.
-•	Use Wireshark to analyze live malicious traffic on the wire.
+•	Implement alarms and thresholds using Kibana.
+•	Assess a vulnerable virtual machine and verify the alarms work as expected.
+•	Use Wireshark to analyze live traffic on the virtual network.
 
 Lab Environment
 •	Capstone (192.168.1.105): The vulnerable target VM that you will attack to test alerts. Filebeat and Metricbeat are installed and will forward logs to the ELK machine.
